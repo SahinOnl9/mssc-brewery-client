@@ -46,6 +46,11 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
+		
+		<dependency>
+            <groupId>org.apache.httpcomponents</groupId>
+            <artifactId>httpasyncclient</artifactId>
+        </dependency>
 
 		<!-- JUnit 5 Dependency -->
 		<!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
